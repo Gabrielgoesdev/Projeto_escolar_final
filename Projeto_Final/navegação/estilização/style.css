@@ -1,0 +1,134 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+body{
+    background-color: #119DD9;
+    
+    
+}
+header{
+    background-color: #4511D9;
+    height: 90%;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    margin: 6px;
+    padding: 10px;
+    list-style-type: none;    
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 50px;
+}
+a:hover{
+    background-color: #119DD9;
+    animation-duration: 5s;
+}
+.inicio{
+    background-color:#119DD9;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    padding-top: 60px;
+    gap: 3rem;
+    
+}
+h1{
+    padding-right: 30px;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    padding-bottom: 2rem;
+}
+img{
+    height: 200px;
+    width: 180px;
+    border-radius: 15px;
+}
+.lado1{
+    background-color: #115ED9;
+}
+.topicos{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+
+
+}
+.caixa1{
+    background-color:#9839DB ;
+    height: 7%;
+    width: 55%;
+    border: 2px black solid;
+    
+    
+}
+.caixa2{
+    background-color:#9839DB ;
+    height: 7%;
+    width: 55%;
+    border: 2px black solid;
+    text-align: center;
+    
+    
+}
+.caixa3{
+    background-color:#9839DB ;
+    height: 7%;
+    width: 55%;
+    border: 2px black solid;
+    text-align: right;
+    
+}
+.video{
+    align-items: center;
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+.video2{
+    align-items: center;
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+#icon{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    
+    background-color: black;
+    border-radius: 50%;
+    
+}
+.top{
+    margin: 0;
+    padding: 0;
+    padding-left: 50px;
+}
+.center{
+    display: flex;
+    
+}
+#pont{
+    padding: 20px;
+}
+h4{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 40px;
+}
